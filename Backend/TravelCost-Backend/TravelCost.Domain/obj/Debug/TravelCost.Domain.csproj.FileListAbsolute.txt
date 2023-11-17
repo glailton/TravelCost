@@ -1,0 +1,12 @@
+C:\Projetos\FullStack\Travel Cost\Backend\TravelCost-Backend\TravelCost.Domain\bin\Debug\TravelCost.Domain.dll
+C:\Projetos\FullStack\Travel Cost\Backend\TravelCost-Backend\TravelCost.Domain\bin\Debug\MediatR.Contracts.dll
+C:\Projetos\FullStack\Travel Cost\Backend\TravelCost-Backend\TravelCost.Domain\bin\Debug\MediatR.dll
+C:\Projetos\FullStack\Travel Cost\Backend\TravelCost-Backend\TravelCost.Domain\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Projetos\FullStack\Travel Cost\Backend\TravelCost-Backend\TravelCost.Domain\bin\Debug\MediatR.xml
+C:\Projetos\FullStack\Travel Cost\Backend\TravelCost-Backend\TravelCost.Domain\bin\Debug\MediatR.Contracts.xml
+C:\Projetos\FullStack\Travel Cost\Backend\TravelCost-Backend\TravelCost.Domain\obj\Debug\TravelCost.Domain.csproj.AssemblyReference.cache
+C:\Projetos\FullStack\Travel Cost\Backend\TravelCost-Backend\TravelCost.Domain\obj\Debug\TravelCost.Domain.csproj.CoreCompileInputs.cache
+C:\Projetos\FullStack\Travel Cost\Backend\TravelCost-Backend\TravelCost.Domain\obj\Debug\TravelCost.Domain.csproj.CopyComplete
+C:\Projetos\FullStack\Travel Cost\Backend\TravelCost-Backend\TravelCost.Domain\bin\Debug\TravelCost.Domain.pdb
+C:\Projetos\FullStack\Travel Cost\Backend\TravelCost-Backend\TravelCost.Domain\obj\Debug\TravelCost.Domain.dll
+C:\Projetos\FullStack\Travel Cost\Backend\TravelCost-Backend\TravelCost.Domain\obj\Debug\TravelCost.Domain.pdb

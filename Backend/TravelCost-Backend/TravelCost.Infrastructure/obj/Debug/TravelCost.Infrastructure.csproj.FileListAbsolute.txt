@@ -1,0 +1,15 @@
+C:\Projetos\FullStack\Travel Cost\Backend\TravelCost-Backend\TravelCost.Infrastructure\bin\Debug\TravelCost.Infrastructure.dll
+C:\Projetos\FullStack\Travel Cost\Backend\TravelCost-Backend\TravelCost.Infrastructure\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Projetos\FullStack\Travel Cost\Backend\TravelCost-Backend\TravelCost.Infrastructure\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Projetos\FullStack\Travel Cost\Backend\TravelCost-Backend\TravelCost.Infrastructure\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Projetos\FullStack\Travel Cost\Backend\TravelCost-Backend\TravelCost.Infrastructure\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Projetos\FullStack\Travel Cost\Backend\TravelCost-Backend\TravelCost.Infrastructure\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Projetos\FullStack\Travel Cost\Backend\TravelCost-Backend\TravelCost.Infrastructure\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Projetos\FullStack\Travel Cost\Backend\TravelCost-Backend\TravelCost.Infrastructure\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Projetos\FullStack\Travel Cost\Backend\TravelCost-Backend\TravelCost.Infrastructure\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Projetos\FullStack\Travel Cost\Backend\TravelCost-Backend\TravelCost.Infrastructure\obj\Debug\TravelCost.Infrastructure.csproj.AssemblyReference.cache
+C:\Projetos\FullStack\Travel Cost\Backend\TravelCost-Backend\TravelCost.Infrastructure\obj\Debug\TravelCost.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Projetos\FullStack\Travel Cost\Backend\TravelCost-Backend\TravelCost.Infrastructure\obj\Debug\TravelCost.Infrastructure.csproj.CopyComplete
+C:\Projetos\FullStack\Travel Cost\Backend\TravelCost-Backend\TravelCost.Infrastructure\bin\Debug\TravelCost.Infrastructure.pdb
+C:\Projetos\FullStack\Travel Cost\Backend\TravelCost-Backend\TravelCost.Infrastructure\obj\Debug\TravelCost.Infrastructure.dll
+C:\Projetos\FullStack\Travel Cost\Backend\TravelCost-Backend\TravelCost.Infrastructure\obj\Debug\TravelCost.Infrastructure.pdb

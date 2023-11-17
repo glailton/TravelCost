@@ -1,0 +1,127 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Projetos\\FullStack\\Travel Cost\\Backend\\TravelCost-Backend\\TravelCost.Api\\TravelCost.Api.csproj": {}
+  },
+  "projects": {
+    "C:\\Projetos\\FullStack\\Travel Cost\\Backend\\TravelCost-Backend\\TravelCost.Api\\TravelCost.Api.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Projetos\\FullStack\\Travel Cost\\Backend\\TravelCost-Backend\\TravelCost.Api\\TravelCost.Api.csproj",
+        "projectName": "TravelCost.Api",
+        "projectPath": "C:\\Projetos\\FullStack\\Travel Cost\\Backend\\TravelCost-Backend\\TravelCost.Api\\TravelCost.Api.csproj",
+        "packagesPath": "C:\\Users\\francisco.glailton\\.nuget\\packages\\",
+        "outputPath": "C:\\Projetos\\FullStack\\Travel Cost\\Backend\\TravelCost-Backend\\TravelCost.Api\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\francisco.glailton\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/AMBEV-SA/AMBEV-WMS/_packaging/Wms.Infrastructure/nuget/v3/index.json": {},
+          "https://pkgs.dev.azure.com/AMBEV-SA/_packaging/aurora/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Projetos\\FullStack\\Travel Cost\\Backend\\TravelCost-Backend\\TravelCost.Domain\\TravelCost.Domain.csproj": {
+                "projectPath": "C:\\Projetos\\FullStack\\Travel Cost\\Backend\\TravelCost-Backend\\TravelCost.Domain\\TravelCost.Domain.csproj"
+              },
+              "C:\\Projetos\\FullStack\\Travel Cost\\Backend\\TravelCost-Backend\\TravelCost.Infrastructure\\TravelCost.Infrastructure.csproj": {
+                "projectPath": "C:\\Projetos\\FullStack\\Travel Cost\\Backend\\TravelCost-Backend\\TravelCost.Infrastructure\\TravelCost.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "FluentValidation.DependencyInjectionExtensions": {
+              "target": "Package",
+              "version": "[11.7.1, )"
+            },
+            "MediatR": {
+              "target": "Package",
+              "version": "[12.1.1, )"
+            },
+            "MediatR.Extensions.Microsoft.DependencyInjectionFixed": {
+              "target": "Package",
+              "version": "[5.1.2, )"
+            },
+            "Serilog.AspNetCore": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.5.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Projetos\\FullStack\\Travel Cost\\Backend\\TravelCost-Backend\\TravelCost.Domain\\TravelCost.Domain.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Projetos\\FullStack\\Travel Cost\\Backend\\TravelCost-Backend\\TravelCost.Domain\\TravelCost.Domain.csproj",
+        "projectName": "TravelCost.Domain",
+        "projectPath": "C:\\Projetos\\FullStack\\Travel Cost\\Backend\\TravelCost-Backend\\TravelCost.Domain\\TravelCost.Domain.csproj",
+        "frameworks": {
+          "net48": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net48": {}
+      }
+    },
+    "C:\\Projetos\\FullStack\\Travel Cost\\Backend\\TravelCost-Backend\\TravelCost.Infrastructure\\TravelCost.Infrastructure.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Projetos\\FullStack\\Travel Cost\\Backend\\TravelCost-Backend\\TravelCost.Infrastructure\\TravelCost.Infrastructure.csproj",
+        "projectName": "TravelCost.Infrastructure",
+        "projectPath": "C:\\Projetos\\FullStack\\Travel Cost\\Backend\\TravelCost-Backend\\TravelCost.Infrastructure\\TravelCost.Infrastructure.csproj",
+        "frameworks": {
+          "net48": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net48": {}
+      }
+    }
+  }
+}
